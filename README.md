@@ -1,1 +1,1 @@
-Initial repository exercise
+Initial repository exercise.
